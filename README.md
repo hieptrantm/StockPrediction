@@ -20,17 +20,16 @@ This repository contains a deep learning model based on Long Short-Term Memory (
 
 To run the model, install the required dependencies:
 
-'pip install tensorflow numpy pandas matplotlib'
+`pip install tensorflow numpy pandas matplotlib`
 
-**Usage**
-
+## Usage
 Clone the repository and run the training script:
 
-"""bash
+```bash
 git clone https://github.com/yourusername/your-repository.git
 cd your-repository
 python train.py
-"""
+```
 
 **Data**
 
