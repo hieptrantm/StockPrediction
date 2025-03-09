@@ -26,11 +26,11 @@ To run the model, install the required dependencies:
 
 Clone the repository and run the training script:
 
-'''bash
+"""bash
 git clone https://github.com/yourusername/your-repository.git
 cd your-repository
 python train.py
-'''
+"""
 
 **Data**
 
